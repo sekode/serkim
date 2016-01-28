@@ -1,3 +1,3 @@
 <?
-	echo "github is very cool";
+	echo "Serkim Boya. Coming Soon.";
 ?>
